@@ -1,4 +1,4 @@
 # Computo-Movil
-Tareas y trabajos de Cómputo Móvil
+Trabajo Final de Cómputo Móvil
 
 Raymundo Ponce Diez Marina
